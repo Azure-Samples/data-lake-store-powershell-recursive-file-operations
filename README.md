@@ -5,7 +5,6 @@ These PowerShell sample scripts allow you to recursively perform operations on D
 ## Included scripts
 
 * Get-AdlStoreChildItemRecursive.ps1
-* ...
 
 ## Prerequisite steps
 
