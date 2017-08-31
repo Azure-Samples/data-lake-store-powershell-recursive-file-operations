@@ -17,7 +17,15 @@ These PowerShell sample scripts allow you to recursively perform operations on D
 
 ### Get-AdlStoreChildItemRecursive.ps1
 
-...
+**Syntax**
+```powershell
+Get-AdlStoreChildItemRecursive.ps1 [-Account] <string> [-Path] <string>
+```
+
+**Example**
+```powershell
+Get-AdlStoreChildItemRecursive.ps1 -Account contosoadla -Path /Samples
+```
 
 ## Resources
 
